@@ -1,16 +1,24 @@
 ## Hi there 👋
+ I'm a Software Engineering Student 
 
-<!--
-**alishbafarooq-cmd/alishbafarooq-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+currently pursuing a Bachelor's degree in Software Engineering.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- &#x20;BS Software Engineering student
+- Learning Java and object-oriented programming
+- Interested in software development and problem-solving
+- Currently improving my programming and practical development skills
+
+### Currently Learning
+
+- Java
+- Object-Oriented Programming
+- Data Structures and Algorithms
+- Git and GitHub
+
+### Goals
+
+To strengthen my software development skills by building projects, solving problems, and gaining practical experience.
+GitHub profile.
+
